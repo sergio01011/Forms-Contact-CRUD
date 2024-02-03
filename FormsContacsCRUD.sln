@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsContacsCRUD", "FormsContacsCRUD\FormsContacsCRUD.csproj", "{FD48BBA8-7748-46F8-925D-63A7D1A2922D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD48BBA8-7748-46F8-925D-63A7D1A2922D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD48BBA8-7748-46F8-925D-63A7D1A2922D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD48BBA8-7748-46F8-925D-63A7D1A2922D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD48BBA8-7748-46F8-925D-63A7D1A2922D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200D377F-9157-4834-84F4-F7D3D75485F7}
+	EndGlobalSection
+EndGlobal
