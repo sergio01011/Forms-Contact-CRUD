@@ -1,2 +1,1 @@
-# Forms Contact CRUD
- 
+This classic contacts application is built in WinForms using the .NET Framework. It seamlessly integrates with a SQL Server database, implementing a comprehensive CRUD (Create, Read, Update, Delete) system. This project is a noteworthy component of the CODECAVE ESP course, showcasing practical implementation. For a detailed walkthrough, you can watch the tutorial on CODECAVE ESP's YouTube channel: https://www.youtube.com/watch?v=ts1-hgoUDGg&pp=ygUXdGhlIGNvZGVyIGNhdmUgZXNwIENSVUQ%3D
